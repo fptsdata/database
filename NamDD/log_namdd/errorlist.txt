@@ -1,0 +1,26 @@
+2023-Jun-21 13:30:38,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-21 13:30:39,Fix Done
+2023-Jun-21 13:34:27,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-21 13:34:27,Fix Done
+2023-Jun-22 09:00:03,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-22 09:00:03,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-22 09:00:03,Fix Done
+2023-Jun-22 09:00:03,Fix Done
+2023-Jun-22 14:08:20,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-22 14:08:20,Fix Done
+2023-Jun-23 09:00:03,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-23 09:00:03,Fix Done
+2023-Jun-24 09:00:03,HTTPSConnectionPool(host='www.nldc.evn.vn', port=443): Max retries exceeded with url: /FullNewsg/100/Thong-tin-thi-truong-dien/default.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nldc.evn.vn'. (_ssl.c:1002)")))
+2023-Jun-24 09:00:03,Fix Done
+2023-Jun-25 09:00:03,Fix Done
+2023-Jun-26 09:00:08,Fix Done
+2023-Jun-27 09:00:03,Fix Done
+2023-Jun-27 10:13:03,Fix Done
+2023-Jun-27 10:14:32,Fix Done
+2023-Jun-28 09:00:05,Fix Done
+2023-Jun-29 09:00:05,Fix Done
+2023-Jun-30 09:00:04,Fix Done
+2023-Jul-01 09:00:03,Fix Done
+2023-Jul-02 09:00:03,Fix Done
+2023-Jul-03 09:00:03,Fix Done
+2023-Jul-04 09:00:03,Fix Done
