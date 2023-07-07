@@ -96,13 +96,15 @@ def SQLserver_push(sql_table_name,python_data):
     return print("PUSH DATA: DONE--- %s seconds ---" % (time.time() - start_time))
 
 #####################################################################################################################
+
+#request
 url = 'https://www.nldc.evn.vn/ThiTruongDien'
 a = requests.get(url)
 soup= BeautifulSoup(a.text, 'html.parser')
-table = soup.find_all('div', {'class': 'row nameColum'})[1]
+table = soup.find_all('div', {'class': 'nameColum'})[1]
 
 #ngay
-date = table.find_all('div')[0].get_text().strip().split('Lúc ')[1].split()[0]
+date = soup.find_all('div', {'class': 'chart-title py-5'})[0].get_text().strip().split('NGÀY ')[1]
 date = str(datetime.strptime(date, '%d/%m/%Y').date())
 
 #công suất lớn nhất
@@ -115,7 +117,7 @@ Q_total = float(Q_total.split(' [Don')[0].replace(',','.'))
 
 #sản lượng theo loại hình
 listQ = []
-for i in range(4,28,3):
+for i in range(5,37,4):
     listQ.append(round(float(table.find_all('div')[i].get_text().strip().replace(',','.')),1))
 
 #ID
